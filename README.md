@@ -1,3 +1,3 @@
 # GMM-Project
 
-See the GMM.ipnyb
+See GMM.ipnyb in GMM Code
