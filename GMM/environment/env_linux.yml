@@ -1,0 +1,12 @@
+name: linux_env
+channels:
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- tqdm
+- imageio
+- scikit-learn
+- notebook
+- jupyterlab
+- scikit-image
